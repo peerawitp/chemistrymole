@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/feelingzexe">
-    <img src="img/scientist.png">
+    <img src="img/scientist.png" width="200" height="200">
   </a>
   <h3 align="center">Chemistry Mole</h3>
   <p align="center">
