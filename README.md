@@ -17,7 +17,5 @@ Made by Peerawit Pharkdeepinyo.
 
 ## Screenshots
 <p align="center">
-<img src="screenshots/Screenshot_1.png" width="800" height="500">
-<img src="screenshots/Screenshot_2.png" width="800" height="500">
-<img src="screenshots/Screenshot_3.png" width="800" height="500">
+<img src="screenshots/Screenshot_Long.png">
 </p>
