@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/feelingzexe">
+  <a href="https://github.com/peerawitp">
     <img src="img/scientist.png" width="200" height="200">
   </a>
   <h3 align="center">Chemistry Mole</h3>
@@ -7,7 +7,7 @@
     A workpiece for chemistry class.
     <br />
     <a href="https://utd.ac.th/" target="_blank"><strong>Uttaradit School »</strong></a><br>
-    <a href="https://feelingzexe.github.io/chemistrymole" target="_blank"><strong>Website Preview »</strong></a><br>
+    <a href="https://peerawitp.github.io/chemistrymole" target="_blank"><strong>Website Preview »</strong></a><br>
   </p>
 </p>
 
